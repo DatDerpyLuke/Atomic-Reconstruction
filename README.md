@@ -1,2 +1,9 @@
 # Atomic Reconstruction
- I'm the one who develops this
+Wanna play it?
+Wait for the itch.io release, please.
+
+```js
+while(!gameReleased) {
+ wait()
+}
+```
